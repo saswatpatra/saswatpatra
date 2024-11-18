@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Saswat, and I'm an Aspiring Programmer from Odisha, India</h1>
+<h1 align="left">Hi 👋 My name is Saswat, and I'm an Aspiring Programmer from Odisha, India</h1>
 
 ###
 
